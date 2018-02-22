@@ -46,7 +46,7 @@ See also [gitmoji](https://gitmoji.carloscuesta.me/).
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
 | Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
 
-==============================================================================================================
+===============================================================================
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
